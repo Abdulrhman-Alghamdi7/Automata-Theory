@@ -1,5 +1,6 @@
 # Regular-Languages
 > **Note:** This project is a personal experiment, so the code is not commented.
+
 This project is a study of regular languages and automata, following Sipser’s Introduction to the Theory of Computation. It provides code implementations of fundamental definitions, theorems, and lemmas from the theory, including:
 
 - Finite automata constructions and operations
