@@ -1,4 +1,4 @@
-# Automata-Theory
+# Automata Theory Experiments
 > **Note:** This project is a personal experiment, so the code is not commented.
 
 This project is a study of automata. It provides code implementations of fundamental definitions, theorems, and lemmas from the theory, including:
