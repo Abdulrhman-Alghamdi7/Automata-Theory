@@ -8,6 +8,7 @@ This project is a study of automata. It provides code implementations of fundame
 - NFA to DFA determinization
 - Union, concatenation, and Kleene star
 - Other automata models, including finite state transducers and multi-input automata
+  
 The aim is not to build a library, but to practice and illustrate the formal results of automata theory through direct implementation.
 
 > **Note:** This README was generated with the assistance of an AI.
