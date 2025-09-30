@@ -1,13 +1,13 @@
-# Regular-Languages
+# Automata-Theory
 > **Note:** This project is a personal experiment, so the code is not commented.
 
-This project is a study of regular languages and automata, following Sipser’s Introduction to the Theory of Computation. It provides code implementations of fundamental definitions, theorems, and lemmas from the theory, including:
+This project is a study of automata. It provides code implementations of fundamental definitions, theorems, and lemmas from the theory, including:
 
 - Finite automata constructions and operations
 - Regular expression to automaton conversion
 - NFA to DFA determinization
 - Union, concatenation, and Kleene star
-
+- Other automata models, including finite state transducers and multi-input automata
 The aim is not to build a library, but to practice and illustrate the formal results of automata theory through direct implementation.
 
 > **Note:** This README was generated with the assistance of an AI.
